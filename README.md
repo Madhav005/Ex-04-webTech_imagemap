@@ -262,6 +262,7 @@ darling.html:
 
 
 # Output:
+![img](Screenshot (17).png)
 ![img](op2.png)
 ![img](op1.png)
 ![img](op3.png)
