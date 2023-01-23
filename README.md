@@ -262,6 +262,14 @@ darling.html:
 
 
 # Output:
+![img](op2.png)
+![img](op1.png)
+![img](op3.png)
+![img](op4.png)
+![img](op5.png)
+![img](op6.png)
+
+
 
 # Result:
 
